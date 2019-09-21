@@ -1,0 +1,2 @@
+- name: download_redis
+  command: chdir=/etc/opt wget http://download.redis.io/releases/redis-4.0.10.tar.gz

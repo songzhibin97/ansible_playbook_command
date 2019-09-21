@@ -1,0 +1,2 @@
+- name: mkdir_pip_conf
+  shell: mkdir ~/.pip

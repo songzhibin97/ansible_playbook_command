@@ -1,0 +1,4 @@
+- hosts: [local_host] 
+  remote_user: root
+  roles:
+  - SElinux_config

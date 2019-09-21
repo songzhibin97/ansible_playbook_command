@@ -1,0 +1,2 @@
+- name: pip_install_virtualenv
+  shell: /opt/python3/bin/pip3 install virtualenv

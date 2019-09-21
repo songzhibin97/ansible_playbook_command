@@ -1,0 +1,3 @@
+- name: clear_yum_cache
+  shell: yum clean all
+

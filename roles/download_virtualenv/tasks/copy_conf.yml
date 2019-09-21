@@ -1,0 +1,3 @@
+- name: append_conf
+  copy: src=~/roles/download_virtualenv/files/.bashrc dest=~/.bashrc 
+  notify: source_conf

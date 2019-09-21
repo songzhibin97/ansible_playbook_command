@@ -1,0 +1,3 @@
+- name: copy_config 
+  copy: src=~/roles/SElinux_config/files/config dest=/etc/selinux/
+

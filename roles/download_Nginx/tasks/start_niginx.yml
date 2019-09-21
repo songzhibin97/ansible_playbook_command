@@ -1,0 +1,2 @@
+- name: start_niginx
+  command: chdir=/opt/nginx1-12/sbin ./nginx

@@ -1,0 +1,2 @@
+- name: compilation
+  command: chdir=/etc/opt/Python-3.6.4 make install

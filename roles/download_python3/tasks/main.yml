@@ -1,0 +1,11 @@
+- import_tasks: yum_other_pack.yml
+- import_tasks: download_python3.yml
+- import_tasks: decompression_python3.yml
+- import_tasks: choice_install_path.yml
+- import_tasks: compilation.yml
+- import_tasks: installation.yml
+- import_tasks: add_variate.yml
+- import_tasks: mkdir_pip_conf.yml
+- import_tasks: copy_pip_conf.yml
+- import_tasks: update_pip3.yml
+- import_tasks: logout.yml

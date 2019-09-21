@@ -1,0 +1,2 @@
+- name: remove_local_yum
+  shell: rm -rf /etc/yum.repos.d/*

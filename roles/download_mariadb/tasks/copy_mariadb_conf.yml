@@ -1,0 +1,2 @@
+- name: copy_mariadb_conf
+  copy: src=~//roles/download_mariadb/files dest=/etc/

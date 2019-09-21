@@ -1,0 +1,8 @@
+- import_tasks: yum_other_pack.yml
+- import_tasks: download_redis.yml
+- import_tasks: decompression_redis.yml
+- import_tasks: compilation.yml
+- import_tasks: installation.yml
+- import_tasks: copy_redis_conf.yml
+- import_tasks: start_redis.yml
+

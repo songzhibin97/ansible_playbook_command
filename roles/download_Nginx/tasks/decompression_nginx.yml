@@ -1,0 +1,2 @@
+- name: decompression_nginx
+  command: chdir=/etc/opt tar -zxvf nginx-1.12.0.tar.gz

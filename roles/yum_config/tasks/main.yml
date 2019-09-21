@@ -1,0 +1,6 @@
+- import_tasks: download_wget.yml
+- import_tasks: remove_local_yum.yml
+- import_tasks: download_yum.yml
+- import_tasks: download_yum_epel.yml
+- import_tasks: clear_yum_cache.yml
+- import_tasks: make_yum_cache.yml

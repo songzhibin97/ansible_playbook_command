@@ -1,0 +1,2 @@
+- name: update_pip3
+  shell: /opt/python3/bin/python3 -m pip install -U pip

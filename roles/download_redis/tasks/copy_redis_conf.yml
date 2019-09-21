@@ -1,0 +1,2 @@
+- name: copy_redis_conf
+  copy: src=~/roles/download_redis/files/redis.conf dest=/etc/opt/redis-4.0.10/

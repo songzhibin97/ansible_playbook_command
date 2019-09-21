@@ -1,0 +1,2 @@
+- name: make_yum_cache
+  shell: yum makecache

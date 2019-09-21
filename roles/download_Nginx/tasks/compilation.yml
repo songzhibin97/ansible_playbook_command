@@ -1,0 +1,2 @@
+- name: compilation
+  command: chdir=/etc/opt/nginx-1.12.0 make

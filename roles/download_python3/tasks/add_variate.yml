@@ -1,0 +1,3 @@
+- name: add_variate
+  shell: echo PATH=/opt/python3/bin:$PATH >> /etc/profile
+  notify: source_path

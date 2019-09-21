@@ -1,0 +1,2 @@
+- name: decompression_python3
+  command: chdir=/etc/opt  tar -xf Python-3.6.4.tgz 

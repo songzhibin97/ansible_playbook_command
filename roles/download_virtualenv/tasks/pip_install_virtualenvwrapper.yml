@@ -1,0 +1,2 @@
+- name: pip_install_virtualenvwrapper
+  shell: /opt/python3/bin/pip3 install virtualenvwrapper

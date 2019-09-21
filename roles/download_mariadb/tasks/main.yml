@@ -1,0 +1,4 @@
+- import_tasks: copy_repo_warehouse.yml
+- import_tasks: yum_mariadb.yml
+- import_tasks: copy_mariadb_conf.yml
+- import_tasks: strat_mariadb.yml

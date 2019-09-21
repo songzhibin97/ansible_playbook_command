@@ -1,0 +1,3 @@
+- import_tasks: pip_install_virtualenv.yml
+- import_tasks: pip_install_virtualenvwrapper.yml
+- import_tasks: copy_conf.yml
